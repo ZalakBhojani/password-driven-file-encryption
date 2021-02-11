@@ -1,6 +1,6 @@
 # Password-Driven-File-encryption
 
-The script uses cryptography package for password driven file encryption-decryption. 
+The python script uses cryptography package for password driven file encryption-decryption. 
 
 ## Getting Started
 
