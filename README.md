@@ -28,7 +28,7 @@ python3 crypt.py -h
 which outputs 
 
 ```
-File Encryptor Script
+File Encryptor-Decryptor Script
 
 positional arguments:
   file                File to encrypt/decrypt
