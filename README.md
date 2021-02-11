@@ -46,9 +46,9 @@ Make sure to change the password at line 14 according to the usage
 
 ## Built With
 
-* (https://docs.python.org/3/library/argparse.html) - argparse library for user - friendly command-line interface
-* (https://cryptography.io/en/latest/) - cryptography package for safe and secure implementation of encryption and decryption of files
-* (https://docs.python.org/3/library/base64.html) - base64 library for converting the byte like object key to urlsafe encoded byte key
-* (https://docs.python.org/3/library/os.html) - os module for file read and write operations
+* cryptography - (https://cryptography.io/en/latest/) - package for safe and secure implementation of encryption and decryption of files
+* argparse - (https://docs.python.org/3/library/argparse.html) - library for user - friendly command-line interface
+* base64 - (https://docs.python.org/3/library/base64.html) - library for converting the byte like object key to urlsafe encoded byte key
+* os - (https://docs.python.org/3/library/os.html) - module for file read and write operations
 
 The script was made as a part of submissions for 2UCL602 - Cryptography and System Security lab
